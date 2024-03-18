@@ -2,7 +2,7 @@
 Flávio Henrique Simões Brito
 
 # PROJETO
-Esse projeto consiste no gerenciamento de uma biblioteca utilizando o Modelo Entidade-Relacionamento.
+Esse projeto consiste no gerenciamento de uma biblioteca conceitual utilizando o Modelo Entidade-Relacionamento.
 
 ### REQUISITOS MÍNIMOS
 - Entidade livro;
