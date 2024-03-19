@@ -6,9 +6,9 @@ Esse projeto consiste no gerenciamento de uma biblioteca conceitual utilizando o
 
 ### REQUISITOS MÍNIMOS
 - Entidade livro;
-- Entidade autor, tem como chave o nome, pois um usuário pode procurar por um produto do autor sem conhecimento do título;
+- Entidade autor;
 - Entidade usuário;
-- Empréstimo como relacionamento;
+- Empréstimo;
 - Estabelecimento de cada relação feita, inclusive a de livro e autor
 - Uso de cardinalidade;
 - Especializações modeladas.
