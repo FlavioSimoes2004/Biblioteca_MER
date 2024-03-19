@@ -24,4 +24,4 @@ Esse projeto consiste no gerenciamento de uma biblioteca conceitual utilizando o
 - Sala Premium(entidade), é uma especialização de sala, onde apenas assinantes podem ter acesso. Esse tipo de sala possui computadores(atributo) e projetor(atributo) para deixar o assinante mais confortável e ele continuar ajudando a biblioteca financeiramente.
 - Assinante(entidade), é uma especialização de usuário, ele contribui financeiramente com a biblioteca, e por isso, ele tem descontos em compras e multas(atributo) e ganha acesso à salas premium.
 - Funcionário(entidade), é uma especialização de usuário, pois o funcionário também pode pegar emprestado, comprar ou doar para a biblioteca. Ele trabalha para a biblioteca e ajuda os usuário a encontrarem os produtos.
-- Gerente(entidade), faz parte da especialização funcionário, tem como atributo o setor que ele é responsável.
+- Gerente(entidade), faz parte da especialização funcionário, tem como atributo o setor que ele é responsável por gerenciar.
