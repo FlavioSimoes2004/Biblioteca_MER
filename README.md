@@ -11,7 +11,7 @@ Esse projeto consiste no gerenciamento de uma biblioteca conceitual utilizando o
 - Empréstimo como relacionamento;
 - Estabelecimento de cada relação feita, inclusive a de livro e autor
 - Uso de cardinalidade;
-- Especialização modeladas.
+- Especializações modeladas.
 
 ### REQUISITOS ADICIONAIS
 - Setor(entidade), pois a biblioteca pode ser dividida em setores diferentes sendo diferenciadas por andar(chave) e curso(atributo), para melhor organização.
