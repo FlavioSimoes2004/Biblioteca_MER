@@ -15,7 +15,7 @@ Esse projeto consiste no gerenciamento de uma biblioteca conceitual utilizando o
 
 ### REQUISITOS ADICIONAIS
 - Setor(entidade), pois a biblioteca pode ser dividida em setores diferentes sendo diferenciadas por andar(chave) e curso(atributo), para melhor organização.
-- Produto(entidade), tem escializações, o produto é o que se pode pegar emprestado, comprar ou doar para a biblioteca. Ele tem a chave código produto e atributos disponibilidade, para saber se está disponível para ser comprado ou emprestado, título, caso o usuário esteja procurando por um produto, ele vai pesquisar pelo título, e está a venda, para dizer que há a possibilidade de compra do produto. Um ou mais produtos podem ter um ou mais autores.
+- Produto(entidade), tem escializações, o produto é o que se pode pegar emprestado, comprar ou doar para a biblioteca. Ele tem a chave código produto e atributos disponibilidade, para saber se está disponível para ser comprado ou emprestado, título, caso o usuário esteja procurando por um produto, ele vai pesquisar pelo título, e está a venda, para dizer que há a possibilidade de compra do produto. Um ou mais produtos podem ter um ou mais autores, tem o atributo faixa etária, para proibir que menores de idade tenham acesso a esses produtos e o gênero, para o usuário achar com mais facilidade o tipo de produto que ele almeja.
 - Ebook(entidade), especialização de produto, ele tem PDFs e livros dentro. Essa entidade acrescenta mais opções de produto aos usuários.
 - DVD(entidade), especialização de produto, tem como atributos a produtora do vídeo/filme/documentário e o diretor. Essa entidade acrescenta mais opções de produto aos usuários.
 - Doa(relacionamento), pois um usuário pode doar um ou muitos produtos para a biblioteca.
